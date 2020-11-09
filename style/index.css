@@ -233,6 +233,10 @@ a{
         /*border:2px solid red;*/
         margin-bottom: 32vh;
     }
+   
+    .banner-content > h4{
+        color: red;
+    }
 
 
     .navigation-items{
