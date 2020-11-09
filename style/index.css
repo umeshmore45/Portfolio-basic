@@ -194,11 +194,12 @@ background-color: black;
 .footer-top{
     color: white;
     padding-left: 95%;
-    position: sticky;
+    position: fixed;
     bottom: 0vh;
 }
 
 .footer-copyrights{
+    padding-top: 5vh;
     color: black;
     text-align: center;
     padding-bottom:1vh ;
